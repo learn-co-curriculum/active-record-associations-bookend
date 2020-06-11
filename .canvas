@@ -1,10 +1,6 @@
 ---
 :lessons:
-- :id: 6508
-  :course_id: 328
-  :canvas_url: https://learning.flatironschool.com/courses/328/pages/active-record-associations-conclusion-2
-  :type: page
-- :id: 6909
+- :id: 6911
   :course_id: 329
-  :canvas_url: https://learning.flatironschool.com/courses/329/pages/active-record-associations-conclusion
+  :canvas_url: https://learning.flatironschool.com/courses/329/pages/active-record-associations-conclusion-2
   :type: page
