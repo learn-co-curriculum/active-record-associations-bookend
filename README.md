@@ -1,10 +1,11 @@
 # Active Record Associations in Conclusion
 
-In this module, we've discussed the advantages of using Active Record and using
-association macros. Active Record automates the ORM setup significantly in a
-simpler format. 
+In this phase of the course, we've discussed the advantages of using Active
+Record and using association macros. Active Record automates the ORM setup
+significantly in a simpler format. 
 
 We also discussed:
+
 * The features of Rake
 * Common methods accessible through Active Record associations
 * How to use association macros
