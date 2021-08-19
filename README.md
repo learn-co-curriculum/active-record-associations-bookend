@@ -1,4 +1,4 @@
-# Active Record Associations in Conclusion
+# Active Record Associations Conclusion
 
 In this module, we've discussed the advantages of using Active Record and using
 association macros. Active Record automates the ORM setup significantly in a
